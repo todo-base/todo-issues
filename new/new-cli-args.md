@@ -7,7 +7,7 @@ assignee: Andrey Shigantsov
 # WIP: Результаты
 
 Думаю, **первым делом нужно** (строго по порядку):
-1. перейти на `markdown-rs` в `tracker-fs`;
+1. перейти на разбор markdown готовым парсером в `tracker-fs`;
 2. добавить поддержку [yaml-аттрибутов](yaml-attributes.md) как ранее обдумывали.
 
 ## Terminal User Interface

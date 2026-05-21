@@ -1,10 +1,6 @@
 - [cli-аргументы и средства ввода под новый функционал](new/new-cli-args.md)
 
-- Перейти на `markdown-rs` в `tracker-fs`
-    ```yaml:attrs
-    assignee: Andrey Shigantsov
-    tags: [refactor]
-    ```
+- [Перейти на готовый markdown-парсер в `tracker-fs`](new/markdown-parser.md)
 
 - [Произвольные атрибуты через YAML-вставки](new/yaml-attributes.md)
 
