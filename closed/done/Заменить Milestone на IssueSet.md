@@ -1,5 +1,6 @@
 ---
 assignee: XX
+status: done
 ---
 
 # Заменить Milestone на IssueSet
